@@ -20,5 +20,8 @@ WHEN I click on an existing note in the list in the left-hand column
 THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+![image](https://user-images.githubusercontent.com/107166355/205463529-b62d5df3-4284-4242-91f4-50d92087d167.png)
+
 
 ⬆ This is what the page functionality should have been.
+Image Credit: UofA Fullstack Part-time Coding Bootcamp
